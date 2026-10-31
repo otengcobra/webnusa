@@ -1,0 +1,13 @@
+{
+  "name": "webnusa",
+  "version": "1.0.0",
+  "private": true,
+  "description": "WebNusa - Website &amp; Promo untuk UMKM Indonesia",
+  "scripts": {
+    "dev": "npx --yes serve .",
+    "deploy": "vercel --yes"
+  },
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}

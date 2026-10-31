@@ -1,0 +1,6 @@
+{
+  "framework": "static",
+  "devCommand": "echo \"static site - no build needed\"",
+  "installCommand": "echo \"no dependencies needed\"",
+  "buildCommand": "echo \"static site - no build needed\""
+}
